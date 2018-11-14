@@ -69,3 +69,5 @@ Exactly putting we want it to be simple are permissive. Interested contributors 
 * Authentication and Profile credits to [Satyajit Das](https://github.com/r3trd)
 * CSS,Bootstrap Rendering realised by [Anoop Kumar](https://github.com/anoop1311)
 * General codebase and framework by [Monsij Biswal](https://github.com/monsij)
+
+
